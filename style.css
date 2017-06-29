@@ -1,0 +1,37 @@
+a:link, a:visited {
+    display: block;
+	color:#bcbcbc;
+    width: 120px;
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+	font-family: inherit;
+}
+
+a:hover, a:active {
+    background-color: #FFFCFC;
+	color: #858585;
+}
+td{
+	background-color:#FFFFFF;
+	text-align:center;
+	padding: 5px;
+}
+.container .navbar.navbar-default footer {
+	background-color: #828282;
+}
+footer {
+	margin-top: 50px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	background-color:#bcbcbc;
+	color: #F5F5F5;
+	text-align: center;
+}
+
+carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
